@@ -1,5 +1,7 @@
 # Walmart End-to-End Analytics Project
 
+![Project Pipeline](walmart_project-piplelines.png)
+
 ## Overview
 
 This repository demonstrates an end-to-end analytics workflow on Walmart sales data: data ingestion, cleaning, exploratory data analysis (EDA), SQL querying, and example visualizations.
